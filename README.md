@@ -1,6 +1,7 @@
 # helloworld-char-device
 Usage:
 
+```
 make
 
 // install module
@@ -15,4 +16,4 @@ sudo rmmod my_char_dev.ko
 
 sudo cat /dev/mychardev
 
-
+```
